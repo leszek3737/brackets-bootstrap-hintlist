@@ -1,0 +1,22 @@
+{
+  "name": "brackets-bootstrap-hintlist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "yarn"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zniszcz/brackets-bootstrap-hintlist.git"
+  },
+  "author": "Adrian 'Zniszczo' Zniszczyński",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zniszcz/brackets-bootstrap-hintlist/issues"
+  },
+  "homepage": "https://github.com/zniszcz/brackets-bootstrap-hintlist#readme",
+  "devDependencies": {
+    "yarn": "^1.3.2"
+  }
+}
